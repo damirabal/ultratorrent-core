@@ -60,3 +60,4 @@ tmp/
 /ARCHITECTURE.md
 /docs/UltraTorrent-User-Manual.docx
 /docs/UltraTorrent-User-Manual.pdf
+.claude/.architecture-hook-paused
