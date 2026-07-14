@@ -61,3 +61,6 @@ tmp/
 /docs/UltraTorrent-User-Manual.docx
 /docs/UltraTorrent-User-Manual.pdf
 .claude/.architecture-hook-paused
+
+# Recall session logs (local tooling scratch; history.md runs to megabytes).
+.recall/
